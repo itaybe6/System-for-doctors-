@@ -4,7 +4,7 @@ The software is medical software that will identify the patient's problem / dise
 First the doctor has to fill in his details to register and then his data is saved in an excel file attached to the project.
 Once logged in, the doctor will be able to perform a number of actions:
 
-Entering a new patient into the system (an Excel file containing all the patients' details).
+1.Entering a new patient into the system (an Excel file containing all the patients' details).
 2.roduction of blood tests of a specific patient.
 3.Import an Excel file with a patient's blood test data (the system will save the data to the system).
 4. Diagnosis of a patient's diseases of a specific patient.
